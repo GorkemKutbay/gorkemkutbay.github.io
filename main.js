@@ -118,7 +118,7 @@ const projectsData = {
         'Entity Framework Core ile veritabanı',
       ],
       tags: ['ASP.NET MVC', 'C#', 'EF Core', 'SQL Server', 'Bootstrap', 'E-Commerce'],
-      github: 'https://github.com/GorkemKutbay/eTicaretUygulamas-',
+      github: 'https://github.com/GorkemKutbay/eTicaretUygulamasi',
     },
   ],
   en: [
