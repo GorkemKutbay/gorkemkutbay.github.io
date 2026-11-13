@@ -40,20 +40,9 @@ Modern ve interaktif bir kişisel portfolio web sitesi. .NET ve C# backend geli�
 └── README.md        # Bu dosya
 ```
 
-## 🚀 Kullanım
 
-1. **index.html** dosyasını bir web tarayıcısında açın
-2. Navigation menüsünden bölümlere git
-3. Sağ üst köşedeki dil butonuyla Türkçe/İngilizce arasında geçiş yapın
-4. Proyeler ve iletişim bağlantılarını keşfedin
 
-### Hızlı Başlangıç
 
-```bash
-# Yerel sunucu ile çalıştır (opsiyonel)
-python -m http.server 8000
-# Sonra http://localhost:8000 adresine git
-```
 
 ## 🛠️ Teknoloji Stack
 
@@ -102,38 +91,6 @@ const translations = {
 - **LinkedIn**: https://www.linkedin.com/in/görkem-kutbay-48586839a/
 - **Email**: kutbaygorkem2007@gmail.com
 
-## 💡 Geliştirme İpuçları
-
-### Proje Ekleme
-`main.js` içerisinde `projectsData` nesnesine yeni proje ekleyin:
-
-```javascript
-{
-  icon: '🔧',
-  name: 'Yeni Projesi',
-  badge: 'Technology',
-  shortDesc: 'Kısa açıklama',
-  desc: 'Detaylı açıklama',
-  features: ['Özellik 1', 'Özellik 2'],
-  tags: ['Tag1', 'Tag2'],
-  github: 'https://github.com/...'
-}
-```
-
-### Yetenek Ekleme
-`main.js` içerisinde `skillsData` nesnesine yeni yetenek ekleyin.
-
-### Stil Özelleştirmesi
-`style.css` başında `:root` bölümündeki CSS değişkenlerini değiştirin:
-
-```css
-:root {
-  --bg: #0b0e13;        /* Arka plan */
-  --accent: #4af0a8;    /* Ana renk */
-  --accent2: #3dd9f5;   /* İkincil renk */
-  /* ... diğer renkler ... */
-}
-```
 
 ## 📄 Lisans
 
